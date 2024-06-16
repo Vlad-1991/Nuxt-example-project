@@ -1,4 +1,4 @@
-<script setup>
+ <script setup>
 const query = ref("batman");
 const movies = ref([]);
 async function search() {
